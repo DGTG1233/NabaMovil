@@ -1,0 +1,11 @@
+[
+  { "id": 1, "nombre": "Katherine", "apellido_paterno": "Rios", "apellido_materno": "Vela", "dni": "71234567", "email": "katherine.rios@nabame.pe", "tipo_trabajador": "full_time", "supervisor_id": 8, "activo": true, "cuota_mensual": 25 },
+  { "id": 2, "nombre": "Jhonatan", "apellido_paterno": "Paredes", "apellido_materno": "Sinti", "dni": "72345678", "email": "jhonatan.paredes@nabame.pe", "tipo_trabajador": "part_time", "supervisor_id": 8, "activo": true, "cuota_mensual": 15 },
+  { "id": 3, "nombre": "Milagros", "apellido_paterno": "Tuesta", "apellido_materno": "Flores", "dni": "73456789", "email": "milagros.tuesta@nabame.pe", "tipo_trabajador": "freelance", "supervisor_id": null, "activo": true, "cuota_mensual": 10 },
+  { "id": 4, "nombre": "Brandon", "apellido_paterno": "Chota", "apellido_materno": "Amasifuen", "dni": "74567890", "email": "brandon.chota@nabame.pe", "tipo_trabajador": "full_time", "supervisor_id": 9, "activo": true, "cuota_mensual": 25 },
+  { "id": 5, "nombre": "Yesenia", "apellido_paterno": "Del Aguila", "apellido_materno": "Ruiz", "dni": "75678901", "email": "yesenia.delaguila@nabame.pe", "tipo_trabajador": "part_time", "supervisor_id": 9, "activo": true, "cuota_mensual": 15 },
+  { "id": 6, "nombre": "Renzo", "apellido_paterno": "Vasquez", "apellido_materno": "Pinedo", "dni": "76789012", "email": "renzo.vasquez@nabame.pe", "tipo_trabajador": "freelance", "supervisor_id": 9, "activo": false, "cuota_mensual": 10 },
+  { "id": 7, "nombre": "Ricardo", "apellido_paterno": "Mori", "apellido_materno": "Paima", "dni": "70123456", "email": "ricardo.mori@nabame.pe", "tipo_trabajador": "socio_comercial", "supervisor_id": null, "activo": true },
+  { "id": 8, "nombre": "Luciana", "apellido_paterno": "Grandez", "apellido_materno": "Tapullima", "dni": "70234567", "email": "luciana.grandez@nabame.pe", "tipo_trabajador": "supervisor", "supervisor_id": 7, "activo": true },
+  { "id": 9, "nombre": "Marco", "apellido_paterno": "Caceres", "apellido_materno": "Murayari", "dni": "70345678", "email": "marco.caceres@nabame.pe", "tipo_trabajador": "supervisor", "supervisor_id": 7, "activo": true }
+]

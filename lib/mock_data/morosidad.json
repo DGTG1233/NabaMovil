@@ -1,0 +1,1264 @@
+[
+ {
+  "id": 1,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "998 530 902",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-04",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-04",
+    "vencimiento": "2026-06-19",
+    "facturado": 44.46,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-04",
+    "vencimiento": "2026-07-19",
+    "facturado": 44.13,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "973 102 728",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-12",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-12",
+    "vencimiento": "2026-06-27",
+    "facturado": 54.4,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "segmento": "movil",
+  "user_id": 1,
+  "identificador": "951 670 650",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-04",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-04",
+    "vencimiento": "2026-06-19",
+    "facturado": 29.94,
+    "ajuste": 0,
+    "pagado": 29.94,
+    "fecha_pago": "2026-06-11"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-04",
+    "vencimiento": "2026-07-19",
+    "facturado": 30.65,
+    "ajuste": 0,
+    "pagado": 30.65,
+    "fecha_pago": "2026-07-14"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-08-04",
+    "vencimiento": "2026-08-19",
+    "facturado": 31.74,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "segmento": "movil",
+  "user_id": 6,
+  "identificador": "955 572 532",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-07",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-07",
+    "vencimiento": "2026-06-22",
+    "facturado": 42.66,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-07",
+    "vencimiento": "2026-07-22",
+    "facturado": 40.02,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "976 637 364",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-04",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-04",
+    "vencimiento": "2026-06-19",
+    "facturado": 40.46,
+    "ajuste": 0,
+    "pagado": 40.46,
+    "fecha_pago": "2026-06-10"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-04",
+    "vencimiento": "2026-07-19",
+    "facturado": 43.74,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "segmento": "movil",
+  "user_id": 1,
+  "identificador": "993 884 232",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-09",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-09",
+    "vencimiento": "2026-06-24",
+    "facturado": 52.97,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "segmento": "movil",
+  "user_id": 2,
+  "identificador": "917 790 580",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-03",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-03",
+    "vencimiento": "2026-06-18",
+    "facturado": 53.63,
+    "ajuste": 0,
+    "pagado": 53.63,
+    "fecha_pago": "2026-06-10"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-03",
+    "vencimiento": "2026-07-18",
+    "facturado": 50.75,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "segmento": "movil",
+  "user_id": 1,
+  "identificador": "902 771 711",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-14",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-14",
+    "vencimiento": "2026-06-29",
+    "facturado": 55.88,
+    "ajuste": 0,
+    "pagado": 55.88,
+    "fecha_pago": "2026-06-20"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-14",
+    "vencimiento": "2026-07-29",
+    "facturado": 54.72,
+    "ajuste": 0,
+    "pagado": 54.72,
+    "fecha_pago": "2026-07-22"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-08-14",
+    "vencimiento": "2026-08-29",
+    "facturado": 54.88,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "segmento": "movil",
+  "user_id": 3,
+  "identificador": "977 623 885",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-10",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-10",
+    "vencimiento": "2026-06-25",
+    "facturado": 55.42,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "segmento": "movil",
+  "user_id": 3,
+  "identificador": "971 548 805",
+  "cliente": null,
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-10",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-10",
+    "vencimiento": "2026-06-25",
+    "facturado": 43.88,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "segmento": "fija",
+  "user_id": 4,
+  "identificador": "P-7209730",
+  "cliente": "Taller Diaz",
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-14",
+  "cargo_fijo": 99.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-14",
+    "vencimiento": "2026-06-29",
+    "facturado": 102.09,
+    "ajuste": 0,
+    "pagado": 102.09,
+    "fecha_pago": "2026-06-22"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-14",
+    "vencimiento": "2026-07-29",
+    "facturado": 110.0,
+    "ajuste": 0,
+    "pagado": 110.0,
+    "fecha_pago": "2026-07-21"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-08-14",
+    "vencimiento": "2026-08-29",
+    "facturado": 111.17,
+    "ajuste": 0,
+    "pagado": 111.17,
+    "fecha_pago": "2026-08-24"
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "segmento": "fija",
+  "user_id": 2,
+  "identificador": "P-1086085",
+  "cliente": "Minimarket Diaz",
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-10",
+  "cargo_fijo": 59.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-10",
+    "vencimiento": "2026-06-25",
+    "facturado": 63.83,
+    "ajuste": 0,
+    "pagado": 63.83,
+    "fecha_pago": "2026-06-23"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-07-10",
+    "vencimiento": "2026-07-25",
+    "facturado": 61.68,
+    "ajuste": 0,
+    "pagado": 61.68,
+    "fecha_pago": "2026-07-24"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-08-10",
+    "vencimiento": "2026-08-25",
+    "facturado": 64.47,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "segmento": "fija",
+  "user_id": 6,
+  "identificador": "P-9467819",
+  "cliente": "Taller Mendoza",
+  "mes_alta": "2026-05",
+  "fecha_alta": "2026-05-11",
+  "cargo_fijo": 59.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-06-11",
+    "vencimiento": "2026-06-26",
+    "facturado": 66.79,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "segmento": "movil",
+  "user_id": 1,
+  "identificador": "908 587 435",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-05",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-05",
+    "vencimiento": "2026-07-20",
+    "facturado": 54.74,
+    "ajuste": 0,
+    "pagado": 54.74,
+    "fecha_pago": "2026-07-11"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-05",
+    "vencimiento": "2026-08-20",
+    "facturado": 52.15,
+    "ajuste": 0,
+    "pagado": 52.15,
+    "fecha_pago": "2026-08-18"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-09-05",
+    "vencimiento": "2026-09-20",
+    "facturado": 55.5,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "999 924 274",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-13",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-13",
+    "vencimiento": "2026-07-28",
+    "facturado": 42.28,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "993 794 827",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-05",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-05",
+    "vencimiento": "2026-07-20",
+    "facturado": 53.63,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "segmento": "movil",
+  "user_id": 2,
+  "identificador": "983 904 629",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-04",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-04",
+    "vencimiento": "2026-07-19",
+    "facturado": 55.42,
+    "ajuste": 0,
+    "pagado": 55.42,
+    "fecha_pago": "2026-07-18"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-04",
+    "vencimiento": "2026-08-19",
+    "facturado": 52.61,
+    "ajuste": 0,
+    "pagado": 52.61,
+    "fecha_pago": "2026-08-15"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-09-04",
+    "vencimiento": "2026-09-19",
+    "facturado": 55.16,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "986 988 180",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-05",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-05",
+    "vencimiento": "2026-07-20",
+    "facturado": 31.3,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "941 968 319",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-09",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-09",
+    "vencimiento": "2026-07-24",
+    "facturado": 42.12,
+    "ajuste": 0,
+    "pagado": 42.12,
+    "fecha_pago": "2026-07-17"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-09",
+    "vencimiento": "2026-08-24",
+    "facturado": 42.14,
+    "ajuste": 0,
+    "pagado": 42.14,
+    "fecha_pago": "2026-08-18"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-09-09",
+    "vencimiento": "2026-09-24",
+    "facturado": 42.42,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "982 127 460",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-06",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-06",
+    "vencimiento": "2026-07-21",
+    "facturado": 32.22,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "segmento": "movil",
+  "user_id": 3,
+  "identificador": "989 848 319",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-05",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-05",
+    "vencimiento": "2026-07-20",
+    "facturado": 40.94,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-05",
+    "vencimiento": "2026-08-20",
+    "facturado": 42.87,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "921 800 161",
+  "cliente": null,
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-12",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-12",
+    "vencimiento": "2026-07-27",
+    "facturado": 40.39,
+    "ajuste": 0,
+    "pagado": 40.39,
+    "fecha_pago": "2026-07-22"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-12",
+    "vencimiento": "2026-08-27",
+    "facturado": 40.36,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "segmento": "fija",
+  "user_id": 1,
+  "identificador": "P-5882776",
+  "cliente": "Marta Ramos Ramos",
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-08",
+  "cargo_fijo": 99.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-08",
+    "vencimiento": "2026-07-23",
+    "facturado": 105.97,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-08",
+    "vencimiento": "2026-08-23",
+    "facturado": 103.22,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "segmento": "fija",
+  "user_id": 1,
+  "identificador": "P-1961529",
+  "cliente": "Bodega Quispe",
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-04",
+  "cargo_fijo": 59.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-04",
+    "vencimiento": "2026-07-19",
+    "facturado": 62.88,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "segmento": "fija",
+  "user_id": 4,
+  "identificador": "P-1637716",
+  "cliente": "Raul Silva Reyes",
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-04",
+  "cargo_fijo": 59.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-04",
+    "vencimiento": "2026-07-19",
+    "facturado": 66.06,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-04",
+    "vencimiento": "2026-08-19",
+    "facturado": 62.16,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "segmento": "fija",
+  "user_id": 3,
+  "identificador": "P-1966882",
+  "cliente": "Julia Vargas Quispe",
+  "mes_alta": "2026-06",
+  "fecha_alta": "2026-06-09",
+  "cargo_fijo": 99.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-07-09",
+    "vencimiento": "2026-07-24",
+    "facturado": 105.91,
+    "ajuste": 0,
+    "pagado": 105.91,
+    "fecha_pago": "2026-07-19"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-08-09",
+    "vencimiento": "2026-08-24",
+    "facturado": 104.56,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "953 674 157",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-14",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-14",
+    "vencimiento": "2026-08-29",
+    "facturado": 43.73,
+    "ajuste": 0,
+    "pagado": 43.73,
+    "fecha_pago": "2026-08-27"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-14",
+    "vencimiento": "2026-09-29",
+    "facturado": 41.32,
+    "ajuste": 0,
+    "pagado": 41.32,
+    "fecha_pago": "2026-09-22"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-10-14",
+    "vencimiento": "2026-10-29",
+    "facturado": 41.43,
+    "ajuste": 0,
+    "pagado": 41.43,
+    "fecha_pago": "2026-10-28"
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "966 345 895",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-14",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-14",
+    "vencimiento": "2026-08-29",
+    "facturado": 30.03,
+    "ajuste": 0,
+    "pagado": 30.03,
+    "fecha_pago": "2026-08-20"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-14",
+    "vencimiento": "2026-09-29",
+    "facturado": 32.04,
+    "ajuste": 0,
+    "pagado": 32.04,
+    "fecha_pago": "2026-09-24"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-10-14",
+    "vencimiento": "2026-10-29",
+    "facturado": 30.35,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "964 422 241",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-09",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-09",
+    "vencimiento": "2026-08-24",
+    "facturado": 53.15,
+    "ajuste": 0,
+    "pagado": 53.15,
+    "fecha_pago": "2026-08-15"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-09",
+    "vencimiento": "2026-09-24",
+    "facturado": 55.22,
+    "ajuste": 0,
+    "pagado": 55.22,
+    "fecha_pago": "2026-09-21"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-10-09",
+    "vencimiento": "2026-10-24",
+    "facturado": 51.56,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "segmento": "movil",
+  "user_id": 2,
+  "identificador": "970 327 795",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-13",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-13",
+    "vencimiento": "2026-08-28",
+    "facturado": 50.13,
+    "ajuste": 0,
+    "pagado": 50.13,
+    "fecha_pago": "2026-08-19"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-13",
+    "vencimiento": "2026-09-28",
+    "facturado": 51.94,
+    "ajuste": 0,
+    "pagado": 51.94,
+    "fecha_pago": "2026-09-19"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-10-13",
+    "vencimiento": "2026-10-28",
+    "facturado": 54.93,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "953 675 948",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-11",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 32,
+  "segmento": "movil",
+  "user_id": 3,
+  "identificador": "957 752 568",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-07",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 33,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "943 262 743",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-11",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 34,
+  "segmento": "movil",
+  "user_id": 3,
+  "identificador": "921 118 646",
+  "cliente": null,
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-09",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-09",
+    "vencimiento": "2026-08-24",
+    "facturado": 31.17,
+    "ajuste": 0,
+    "pagado": 31.17,
+    "fecha_pago": "2026-08-15"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-09",
+    "vencimiento": "2026-09-24",
+    "facturado": 32.75,
+    "ajuste": 0,
+    "pagado": 32.75,
+    "fecha_pago": "2026-09-21"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-10-09",
+    "vencimiento": "2026-10-24",
+    "facturado": 31.86,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "segmento": "fija",
+  "user_id": 5,
+  "identificador": "P-3651537",
+  "cliente": "Elena Flores Diaz",
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-06",
+  "cargo_fijo": 99.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-06",
+    "vencimiento": "2026-08-21",
+    "facturado": 104.61,
+    "ajuste": 0,
+    "pagado": 104.61,
+    "fecha_pago": "2026-08-12"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-06",
+    "vencimiento": "2026-09-21",
+    "facturado": 111.45,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "segmento": "fija",
+  "user_id": 2,
+  "identificador": "P-1158525",
+  "cliente": "Patricia Garcia Lopez",
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-14",
+  "cargo_fijo": 79.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-14",
+    "vencimiento": "2026-08-29",
+    "facturado": 80.3,
+    "ajuste": 0,
+    "pagado": 80.3,
+    "fecha_pago": "2026-08-25"
+   },
+   {
+    "numero": 2,
+    "emision": "2026-09-14",
+    "vencimiento": "2026-09-29",
+    "facturado": 88.52,
+    "ajuste": 0,
+    "pagado": 88.52,
+    "fecha_pago": "2026-09-24"
+   },
+   {
+    "numero": 3,
+    "emision": "2026-10-14",
+    "vencimiento": "2026-10-29",
+    "facturado": 89.23,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "segmento": "fija",
+  "user_id": 5,
+  "identificador": "P-3428428",
+  "cliente": "Ferreteria Vargas",
+  "mes_alta": "2026-07",
+  "fecha_alta": "2026-07-11",
+  "cargo_fijo": 59.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-08-11",
+    "vencimiento": "2026-08-26",
+    "facturado": 61.19,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "segmento": "movil",
+  "user_id": 2,
+  "identificador": "982 713 724",
+  "cliente": null,
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-16",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 39,
+  "segmento": "movil",
+  "user_id": 1,
+  "identificador": "964 731 408",
+  "cliente": null,
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-12",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": [
+   {
+    "numero": 1,
+    "emision": "2026-09-12",
+    "vencimiento": "2026-09-27",
+    "facturado": 31.64,
+    "ajuste": 0,
+    "pagado": 0,
+    "fecha_pago": null
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "918 631 352",
+  "cliente": null,
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-25",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 41,
+  "segmento": "movil",
+  "user_id": 5,
+  "identificador": "951 170 897",
+  "cliente": null,
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-16",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 42,
+  "segmento": "movil",
+  "user_id": 3,
+  "identificador": "932 432 542",
+  "cliente": null,
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-07",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 43,
+  "segmento": "fija",
+  "user_id": 4,
+  "identificador": "P-7762381",
+  "cliente": "Libreria Reyes",
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-21",
+  "cargo_fijo": 99.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 44,
+  "segmento": "fija",
+  "user_id": 3,
+  "identificador": "P-7873623",
+  "cliente": "Oscar Silva Diaz",
+  "mes_alta": "2026-08",
+  "fecha_alta": "2026-08-12",
+  "cargo_fijo": 99.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 45,
+  "segmento": "movil",
+  "user_id": 2,
+  "identificador": "964 436 955",
+  "cliente": null,
+  "mes_alta": "2026-09",
+  "fecha_alta": "2026-09-08",
+  "cargo_fijo": 49.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 46,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "942 658 741",
+  "cliente": null,
+  "mes_alta": "2026-09",
+  "fecha_alta": "2026-09-02",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 47,
+  "segmento": "movil",
+  "user_id": 2,
+  "identificador": "981 374 400",
+  "cliente": null,
+  "mes_alta": "2026-09",
+  "fecha_alta": "2026-09-05",
+  "cargo_fijo": 29.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 48,
+  "segmento": "movil",
+  "user_id": 4,
+  "identificador": "908 833 437",
+  "cliente": null,
+  "mes_alta": "2026-09",
+  "fecha_alta": "2026-09-10",
+  "cargo_fijo": 39.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ },
+ {
+  "id": 49,
+  "segmento": "fija",
+  "user_id": 4,
+  "identificador": "P-9668625",
+  "cliente": "Consultorio Salazar",
+  "mes_alta": "2026-09",
+  "fecha_alta": "2026-09-11",
+  "cargo_fijo": 79.9,
+  "fecha_proceso": "2026-10-16",
+  "recibos": []
+ }
+]
